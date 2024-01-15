@@ -1,0 +1,11 @@
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\bin\Debug\net6.0\authRepository.deps.json
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\bin\Debug\net6.0\authRepository.dll
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\bin\Debug\net6.0\authRepository.pdb
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\authRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\authRepository.AssemblyInfoInputs.cache
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\authRepository.AssemblyInfo.cs
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\authRepository.csproj.CoreCompileInputs.cache
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\authRepository.dll
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\refint\authRepository.dll
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\authRepository.pdb
+D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\authRepository\obj\Debug\net6.0\ref\authRepository.dll

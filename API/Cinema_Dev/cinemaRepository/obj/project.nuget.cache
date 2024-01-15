@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bg2Ry5b/qBCAi/4Bcvqs8h74KGBAPD6Z6dbQqJp3hvLUb0ETFCYkpG459RJO5VKacXuR0fp2viLMpkESnck1g==",
+  "success": true,
+  "projectFilePath": "D:\\Archana\\Archana Practice Projects\\Dot Net Core\\Cinema_Dev\\cinemaRepository\\cinemaRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Archana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Archana\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Archana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
