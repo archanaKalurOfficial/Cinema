@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cinemaRepository
-build_property.ProjectDir = D:\Archana\Archana Practice Projects\Dot Net Core\Cinema_Dev\cinemaRepository\
+build_property.ProjectDir = D:\Archana\Archana Practice Projects\Cinema\API\Cinema_Dev\cinemaRepository\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

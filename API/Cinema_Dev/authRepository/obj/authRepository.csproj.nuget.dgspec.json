@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Archana\\Archana Practice Projects\\Dot Net Core\\Cinema_Dev\\authRepository\\authRepository.csproj": {}
+    "D:\\Archana\\Archana Practice Projects\\Cinema\\API\\Cinema_Dev\\authRepository\\authRepository.csproj": {}
   },
   "projects": {
-    "D:\\Archana\\Archana Practice Projects\\Dot Net Core\\Cinema_Dev\\authRepository\\authRepository.csproj": {
+    "D:\\Archana\\Archana Practice Projects\\Cinema\\API\\Cinema_Dev\\authRepository\\authRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Archana\\Archana Practice Projects\\Dot Net Core\\Cinema_Dev\\authRepository\\authRepository.csproj",
+        "projectUniqueName": "D:\\Archana\\Archana Practice Projects\\Cinema\\API\\Cinema_Dev\\authRepository\\authRepository.csproj",
         "projectName": "authRepository",
-        "projectPath": "D:\\Archana\\Archana Practice Projects\\Dot Net Core\\Cinema_Dev\\authRepository\\authRepository.csproj",
+        "projectPath": "D:\\Archana\\Archana Practice Projects\\Cinema\\API\\Cinema_Dev\\authRepository\\authRepository.csproj",
         "packagesPath": "C:\\Users\\Archana\\.nuget\\packages\\",
-        "outputPath": "D:\\Archana\\Archana Practice Projects\\Dot Net Core\\Cinema_Dev\\authRepository\\obj\\",
+        "outputPath": "D:\\Archana\\Archana Practice Projects\\Cinema\\API\\Cinema_Dev\\authRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Archana\\AppData\\Roaming\\NuGet\\NuGet.Config",
